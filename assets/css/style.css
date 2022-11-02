@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+}
+header {
+    text-align: center;
+    background-color: #E6E6E6;
+}
+
+section ul li span{
+    font-weight: bold;
+}
+
+div {
+    height: 100px;
+    background-color: white;
+}
+
+header h1 {
+    background-color: #C4C4C4;
+    color: #005677;
+}
+
+
+section h2 {
+    background-color: #C4C4C4;
+    color: #005677;
+}
+
+section {
+    height: 150px;
+}
+
+footer p {
+    text-align: center;
+    background-color: #005677;
+    color: white;
+}
+
+.section2 ul{
+    list-style-type: none;
+}
+
+.section3 ul {
+    list-style-type: none;
+}
+
+section ul{
+    margin-top: 30px;
+}
+
+main {
+    text-align: left;
+}
